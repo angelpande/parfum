@@ -5,7 +5,7 @@ Website sederhana untuk menampilkan informasi tentang jenis-jenis parfum, disert
 ## Fitur:
 - Navigasi responsif
 - Deskripsi 4 jenis parfum
-- Background music (🔊/🔇 toggle)
+- Background music 
 - Video YouTube tentang pembuatan parfum
 - Form kontak + Google Maps
 
