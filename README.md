@@ -15,4 +15,4 @@ Website sederhana untuk menampilkan informasi tentang jenis-jenis parfum, disert
 - `assets/css/style.css`
 - `assets/img/` (gambar parfum dan lainnya)
 
-Angel – Tugas Sistem Multimedia 2025
+Angel – Lab Sistem Multimedia 2025
